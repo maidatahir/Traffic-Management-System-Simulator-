@@ -123,9 +123,9 @@ Uses BFS to detect congestion zones and find congested roads.
 Uses DFS to detect inaccessible paths due to accidents or closures.
 14. RunTraffic
 Simulates the traffic flow and manages vehicle movement, signal adjustments, and congestion detection.
-
 Sample Output:
-
+bash
+Copy code
 Running Traffic Simulation:
 Road Network:
 Intersection1 connected to: Intersection2
